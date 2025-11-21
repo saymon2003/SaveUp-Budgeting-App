@@ -1,2 +1,80 @@
-# SaveUp-Budgeting-App
- SaveUp is a personal budgeting app designed to help users control spending, set goals,      and build better money habits. I designed the app from scratch starting with low-fidelity      wireframes, then building a design system, and finally creating high-fidelity screens.
+📌 Overview
+
+SaveUp is a mobile budgeting application created to help users track expenses, manage income, and follow their savings goals.
+This project shows my complete UX/UI process—from early wireframes to a polished, interactive prototype.
+
+🎯 My Role
+
+UX/UI Designer
+
+Wireframes & App Flow
+
+Design System Creation
+
+High-Fidelity Interface Design
+
+Component & Variant Setup
+
+Prototyping in Figma
+
+🛠️ Tools
+
+Figma (Auto Layout, Components, Variants, Prototyping)
+
+Icon System
+
+Mobile-first Layout
+
+Color & Typography Standards
+
+🧱 Low-Fidelity Wireframes
+
+These grayscale wireframes outline the app’s structure and navigation.
+
+<p align="center"> <img src="images/lowfi.png" width="85%"> </p>
+🎨 Design System
+
+The design system includes the color palette, typography, button styles, cards, and components used across the app.
+
+Buttons
+<p align="center"> <img src="images/buttons.png" width="85%"> </p>
+Cards (Goals & Transactions)
+<p align="center"> <img src="images/cards.png" width="85%"> </p>
+✨ High-Fidelity Screens
+
+These are the final polished UI screens created using Figma.
+
+<p align="center"> <img src="images/screens-all.png" width="90%"> </p>
+🔗 Live Figma Prototype
+
+👉 View the Interactive Prototype
+
+(Add your public Figma link here.)
+
+📚 What I Focused On
+
+Clean, simple mobile UI
+
+Consistent spacing and alignment
+
+Clear separation between income (green) and expenses (red)
+
+Easy visualization of financial goals
+
+Reusable components & scalable design system
+
+Soft shadows and rounded cards for modern look
+
+📝 What I Learned
+
+Building a full component/variant structure
+
+Designing cohesive UI across multiple screens
+
+Improving visual hierarchy with color and typography
+
+Creating a readable financial dashboard
+
+Structuring a full UX/UI project from start to finish
+
+© 2025 – Designed by Anas Abbadi
