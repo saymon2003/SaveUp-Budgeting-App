@@ -1,3 +1,7 @@
+SaveUp – Budgeting App (UX/UI Case Study)
+
+A full Figma design project including low-fidelity wireframes, design system, and high-fidelity UI.
+
 📌 Overview
 
 SaveUp is a mobile budgeting application created to help users track expenses, manage income, and follow their savings goals.
@@ -28,22 +32,16 @@ Mobile-first Layout
 Color & Typography Standards
 
 🧱 Low-Fidelity Wireframes
-
-These grayscale wireframes outline the app’s structure and navigation.
-
-<p align="center"> <img src="images/lowfi.png" width="85%"> </p>
+<p align="center"> <img src="images/lowfi-flow.png" width="85%"> </p>
 🎨 Design System
-
-The design system includes the color palette, typography, button styles, cards, and components used across the app.
-
 Buttons
 <p align="center"> <img src="images/buttons.png" width="85%"> </p>
 Cards (Goals & Transactions)
-<p align="center"> <img src="images/cards.png" width="85%"> </p>
+<p align="center"> <img src="images/" width="85%"> </p>
 ✨ High-Fidelity Screens
-
-These are the final polished UI screens created using Figma.
-
+Home Screen
+<p align="center"> <img src="images/home-screen.png" width="60%"> </p>
+Complete Screen Collection
 <p align="center"> <img src="images/screens-all.png" width="90%"> </p>
 🔗 Live Figma Prototype
 
