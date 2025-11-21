@@ -47,7 +47,7 @@ Complete Screen Collection
 
 👉 View the Interactive Prototype
 
-(Add your public Figma link here.)
+https://www.figma.com/files/team/1524154983471111941/project/412845721/SaveUp?fuid=1524154979174302829
 
 📚 What I Focused On
 
